@@ -1,3 +1,3 @@
 function index() {
-	console.log("hello git");
+	console.log("hello git hello git");
 }
